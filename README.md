@@ -1,8 +1,6 @@
 # ET User Interface
 
-A user interface for web applications that focuses on
-speed and minimalistic design concepts
-that is simple to use
+A user interface framework for web applications.
 
 Main goals:
 
@@ -10,5 +8,7 @@ Main goals:
 2. Design that puts content first
 3. Simple to work with
 
-
-
+Technology used:
+* HTML/CSS
+* JavaScript
+* PHP
